@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**chugunof/chugunof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **chugunof** - a 16-year-old Roblox game developer and scripter.
 
-Here are some ideas to get you started:
+### About me:
+- 🎮 I create game scripts and mechanics for Roblox
+- 💻 **Languages:** Lua, Python, HTML
+- 🛠 I build custom systems, tools, and gameplay features
+- 🎯 Focused on creating fun and engaging player experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently:
+- 🔭 Working on new Roblox game projects
+- 🌱 Learning advanced scripting techniques and game design
+- 👯 Open to collaborate on Roblox game development
+- 💡 Always experimenting with new scripting ideas
+
+### My Skills:
+- Game mechanics and systems
+- UI/UX for Roblox games
+- Script optimization
+- Custom game features
+
+### Fun fact:
+⚡ I turn creative game ideas into working code and love seeing players enjoy my creations
